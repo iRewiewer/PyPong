@@ -1,2 +1,0 @@
-# PyPong
-Pong using pygame.
